@@ -6,9 +6,13 @@ main()
 
 add()
 {
- addition 	
+	 addition 	
 }
 sub()
 {
- Subtraction 
+ 	Subtraction 
+}
+mul()
+{
+	Multiplication
 }
